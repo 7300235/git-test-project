@@ -1,3 +1,1 @@
-# My-first-github-project
-
-this is a just my first github project
+do whatever you want, it just for git learning
